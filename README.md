@@ -18,6 +18,7 @@
 
 
 <h2 id="overview">Overview</h2>
+<p><img src="https://github.com/cmdtradedev/tradingview-auto-adaptive-signals/blob/main/SS-Run-Momentum.png" /></p>
 <p>
     This script autonomously evaluates trade conditions and visually signals optimal positioning, helping traders assess price action, trend momentum, and market structure across multiple charts. 
     It synchronizes EMA crossovers, VWAP positioning, MACD & RSI validation, and ATR-based take-profit/stop-loss zones to adapt dynamically to real-time market conditions.
